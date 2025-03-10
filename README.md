@@ -11,9 +11,9 @@ This website provides personalized travel recommendations for users, helping the
 ✅ Navigation bar for seamless browsing  
 
 ## 🚀 Live Demo
-🔗 GitHub Pages URL: **[https://yourusername.github.io/travel-recommendation](https://yourusername.github.io/travel-recommendation)**
+🔗 GitHub Pages URL: **[https://travel-recommendation-bay.vercel.app/]**
 
 ## 💾 GitHub Repository
-🔗 Repo Link: **[https://github.com/yourusername/travel-recommendation](https://github.com/yourusername/travel-recommendation)**
+🔗 Repo Link: **[https://github.com/SajidAbdullah729/travel-recommendation]**
 
 ---
