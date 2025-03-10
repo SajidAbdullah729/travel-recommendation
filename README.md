@@ -10,8 +10,6 @@ This website provides personalized travel recommendations for users, helping the
 ✅ Travel recommendations for beaches, temples, and countries  
 ✅ Navigation bar for seamless browsing  
 
-## 🚀 Live Demo
-🔗 GitHub Pages URL: **[https://travel-recommendation-bay.vercel.app/]**
 
 ## 💾 GitHub Repository
 🔗 Repo Link: **[https://github.com/SajidAbdullah729/travel-recommendation]**
