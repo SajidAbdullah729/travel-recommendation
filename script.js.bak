@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const form = document.getElementById("contactForm");
     // Hello new push
+	//hello second push
     if (form) {
         form.addEventListener("submit", function (event) {
             event.preventDefault();

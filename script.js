@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const form = document.getElementById("contactForm");
     // Hello new push
 	//hello second push
+	//add another comment
     if (form) {
         form.addEventListener("submit", function (event) {
             event.preventDefault();
